@@ -51,6 +51,12 @@ Average Order Value = AVERAGEX(SUMMARIZE(orders,orders[order_id],"orderValue", [
 Total Pizza Sales = SUM(order_details[quantity]) 
 ```
 ### Results And Findings
+- Weekly sales peaked between Fridays(total of 3,538 orders), Thursdays(3,239 orders), Saturday(3,158 orders). Also, the busiest times during these days of the week are: Fridays(around 12.55pm, lunch time), Saturdays(Around 6.00pm), and Thurdsays(12.55pm)
+
+- The best selling Pizzas was the Thai Chicken Pizza and the worst selling Pizza was the The Brie Carrie Pizza
+
+- The Average Order Value was $38
+- The total Revenue generated was $817,860, with the revenue peaking highest in the month of July at $72,560.
 
 
 
